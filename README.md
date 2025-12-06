@@ -101,7 +101,7 @@ Each operation (Add, Get, Update, Delete) is handled by a separate Lambda functi
 
 Below is the architecture diagram representing the flow of the Serverless To-Do App.
 
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.jpg)
 
 
 
@@ -229,7 +229,7 @@ Example of retrieving all tasks using the `/tasks` endpoint.
 
 ### 3. DynamoDB Table View
 Stored tasks visible in the DynamoDB table.
-![DynamoDB Screenshot](screenshots/dynamodb_table.jpg)
+![DynamoDB Screenshot](screenshots/dynamodb_table.png)
 
 
 ## License
@@ -240,4 +240,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Nishika Jaiswal**
 
 Aspiring Cloud & DevOps Engineer
+
 
